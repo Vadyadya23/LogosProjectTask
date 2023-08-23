@@ -1,1 +1,1 @@
-# LogosProjectTask
+# LogosProjectTask. Added code to LogosIT)
